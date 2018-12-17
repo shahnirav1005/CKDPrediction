@@ -13,6 +13,12 @@ in laboratory environment for the early recognition and prevention of the progre
 
 In this report, we try to use GLM along with various model selection techniques to build a prediction model for CKD detection. We validate the model and test its predictive power via the generalized linear models.
 
+## Group Members - Project for ISYE6421 (Biostatistics)
+
+1. Nirav Shah
+2. Parisa Zowj
+3. Sini Nagpal
+
 ## Usage
 
 ### The R script - ckd_predictions.R require R and R Studio be installed with the following libraries:
