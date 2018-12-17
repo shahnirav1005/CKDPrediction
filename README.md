@@ -43,9 +43,9 @@ There are 400 observations with 25 attributes including the outcome.
 
 ## Repository Folder Hierarchy
 
-	CKDPrediction/									<- Parent Directory <parent_dir>
+	CKDPrediction/								<- Parent Directory <parent_dir>
 	├── CKD_UCI_Data    							<- Dataset Directory
-	│   ├── CKD.csv 								<- Raw dataset
+	│   ├── CKD.csv 							<- Raw dataset
 	│   ├── CKDClean.csv 							<- NA-omitted dataset
 	│   ├── chronic_kidney_disease.arff
 	│   ├── chronic_kidney_disease.info.txt
@@ -54,6 +54,6 @@ There are 400 observations with 25 attributes including the outcome.
 	├── ckd_predictions.R 							<- R-script for exploratory and glm analysis
 	├── ckd_classifiers.py 							<- Python2.7 for ML classifiers and predictions
 	│
-	├── CKD_FinalAnalysisReport.pdf 				<- Final Report (Submitted - Analyzed and Explained)
-	└── README.md 									<- This file
+	├── CKD_FinalAnalysisReport.pdf 					<- Final Report (Submitted - Analyzed and Explained)
+	└── README.md 								<- This file
 
